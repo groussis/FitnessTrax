@@ -26,7 +26,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="Welcome!"
+            android:text="@string/welcome"
             android:textSize="24sp"
             android:background="#cae1ed"
             android:gravity="center_horizontal"
@@ -44,7 +44,7 @@
                 android:layout_height="match_parent"
                 android:scaleType="centerInside"
                 android:background="#3c5a69"
-                android:src="@drawable/profilebutton"/>
+                android:src="@drawable/profilebutton" />
             <ImageButton
                 android:id="@+id/button_foodlog"
                 android:layout_width="0dp"

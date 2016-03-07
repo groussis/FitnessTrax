@@ -35,6 +35,7 @@ public class HOMESCREEN extends AppCompatActivity {
             }
         });
 
+        //profile button
         ImageButton button_profile = (ImageButton) findViewById(R.id.button_profile);
         button_profile.setOnClickListener(new View.OnClickListener(){
             @Override
@@ -44,6 +45,7 @@ public class HOMESCREEN extends AppCompatActivity {
             }
         });
 
+        //foodlog button
         ImageButton button_foodlog = (ImageButton) findViewById(R.id.button_foodlog);
         button_foodlog.setOnClickListener(new View.OnClickListener(){
             @Override
@@ -53,6 +55,7 @@ public class HOMESCREEN extends AppCompatActivity {
             }
         });
 
+        //add food button
         ImageButton button_addfood = (ImageButton) findViewById(R.id.button_addfood);
         button_addfood.setOnClickListener(new View.OnClickListener(){
             @Override
@@ -62,6 +65,7 @@ public class HOMESCREEN extends AppCompatActivity {
             }
         });
 
+        //search button
         ImageButton button_search = (ImageButton) findViewById(R.id.button_searchnut);
         button_search.setOnClickListener(new View.OnClickListener(){
             @Override
@@ -71,6 +75,7 @@ public class HOMESCREEN extends AppCompatActivity {
             }
         });
 
+        //progress button
         ImageButton button_progress = (ImageButton) findViewById(R.id.button_progress);
         button_progress.setOnClickListener(new View.OnClickListener(){
             @Override

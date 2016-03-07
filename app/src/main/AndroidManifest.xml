@@ -16,6 +16,37 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".profile"
+            android:label="FitnessTrax">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HOMESCREEN" />
+        </activity>
+        <activity android:name=".foodlog"
+            android:label="FitnessTrax">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HOMESCREEN" />
+        </activity>
+        <activity android:name=".addfood"
+            android:label="FitnessTrax">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HOMESCREEN" />
+        </activity>
+        <activity android:name=".search"
+            android:label="FitnessTrax">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HOMESCREEN" />
+        </activity>
+        <activity android:name=".progress"
+            android:label="FitnessTrax">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HOMESCREEN" />
+        </activity>
+
     </application>
 
 </manifest>

@@ -2,4 +2,12 @@
     <string name="app_name">FitnessTrax</string>
     <string name="fitnesstrax">FitnessTrax</string>
     <string name="welcome">Welcome!</string>
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+    <string name="home">HOME</string>
+    <string name="profile">PROFILE</string>
+    <string name="foodlog">FOOD LOG</string>
+    <string name="addfood">ADD FOOD</string>
+    <string name="search">SEARCH NUTRITION</string>
+    <string name="progress">PROGRESS</string>
 </resources>

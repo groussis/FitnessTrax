@@ -60,7 +60,8 @@
             android:text="@string/home"
             android:textColor="@android:color/white"
             android:textSize="20sp"
-            android:background="#0a85c0"/>
+            android:background="#0a85c0"
+            android:paddingStart="16dp"/>
         <TextView
             android:id="@+id/textViewPROFILE"
             android:layout_width="match_parent"
@@ -68,7 +69,8 @@
             android:gravity="center_vertical"
             android:text="@string/profile"
             android:textColor="@android:color/white"
-            android:textSize="20sp"/>
+            android:textSize="20sp"
+            android:paddingStart="16dp"/>
         <TextView
             android:id="@+id/textViewFOODLOG"
             android:layout_width="match_parent"
@@ -77,7 +79,8 @@
             android:text="@string/foodlog"
             android:textColor="@android:color/white"
             android:textSize="20sp"
-            android:background="#0a85c0"/>
+            android:background="#0a85c0"
+            android:paddingStart="16dp"/>
         <TextView
             android:id="@+id/textViewADDFOOD"
             android:layout_width="match_parent"
@@ -85,7 +88,8 @@
             android:gravity="center_vertical"
             android:text="@string/addfood"
             android:textColor="@android:color/white"
-            android:textSize="20sp"/>
+            android:textSize="20sp"
+            android:paddingStart="16dp"/>
         <TextView
             android:id="@+id/textViewSEARCH"
             android:layout_width="match_parent"
@@ -94,7 +98,8 @@
             android:text="@string/search"
             android:textColor="@android:color/white"
             android:textSize="20sp"
-            android:background="#0a85c0"/>
+            android:background="#0a85c0"
+            android:paddingStart="16dp"/>
         <TextView
             android:id="@+id/textViewPROGRESS"
             android:layout_width="match_parent"
@@ -102,6 +107,7 @@
             android:gravity="center_vertical"
             android:text="@string/progress"
             android:textColor="@android:color/white"
-            android:textSize="20sp"/>
+            android:textSize="20sp"
+            android:paddingStart="16dp"/>
     </LinearLayout>
 </android.support.v4.widget.DrawerLayout>

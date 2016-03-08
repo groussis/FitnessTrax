@@ -10,4 +10,5 @@
     <string name="addfood">ADD FOOD</string>
     <string name="search">SEARCH NUTRITION</string>
     <string name="progress">PROGRESS</string>
+    <string name="name">Name</string>
 </resources>
